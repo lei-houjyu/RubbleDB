@@ -1,0 +1,6 @@
+[submodule "rocksdb"]
+	path = rocksdb
+	url = git@github.com:lei-houjyu/rocksdb.git
+[submodule "YCSB"]
+	path = YCSB
+	url = git@github.com:lei-houjyu/YCSB.git
